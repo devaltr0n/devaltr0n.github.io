@@ -56,3 +56,6 @@ a { color: var(--accent); }
 details { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 16px; margin: 10px 0; }
 summary { cursor: pointer; font-weight: 600; }
 footer { padding-top: 16px; padding-bottom: 32px; border-top: 1px solid var(--line); color: var(--soft); font-size: 0.9rem; }
+.app-icon { display: block; border-radius: 22%; margin-top: 1em; box-shadow: 0 4px 16px rgba(30, 16, 51, 0.18); }
+.card img { float: left; border-radius: 22%; margin: 0 14px 4px 0; }
+.card::after { content: ""; display: block; clear: both; }
