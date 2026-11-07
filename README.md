@@ -1,6 +1,6 @@
 # Tiny Hearth site
 
-Tiny Hearth's GitHub Pages site (account `tinyhearth`, so `https://tinyhearth.github.io/`): a home page listing every game, and per game a page, a privacy
+Tiny Hearth's GitHub Pages site, live at `https://devaltr0n.github.io/` (repo `devaltr0n/devaltr0n.github.io`, published from `main`, root): a home page listing every game, and per game a page, a privacy
 policy and a support page. Store listings link to `<site>/<game>/privacy.html` and
 `<site>/<game>/support.html`.
 
