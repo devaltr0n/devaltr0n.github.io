@@ -6,5 +6,6 @@
   "stores": {
     "App Store": "",
     "Google Play": ""
-  }
+  },
+  "icon": "icon.png"
 }
